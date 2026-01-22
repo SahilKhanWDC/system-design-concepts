@@ -32,6 +32,7 @@
 >Not a Silver Bullet: While powerful, Consistent Hashing is not a magic fix for all architecture problems. It is specifically a tool for request allocation and minimizing data movement.
 **Subjectivity**: Server architecture is complex. There are outliers and edge cases where other strategies might be needed, but consistent hashing remains a standard "building block" for architects.
 
+#
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: flex-start;">
 <img src="./images/loadbalancing/WhatsApp%20Image%202026-01-22%20at%2011.49.47%20PM.jpeg" width="400">
@@ -41,6 +42,10 @@
 <img src="./images/loadbalancing/WhatsApp%20Image%202026-01-22%20at%2011.49.50%20PM.jpeg" width="400">
 <img src="./images/loadbalancing/image.png" width="400">
 <div/>
+
+#
+#### code
+
 
 ```python
 import hashlib
