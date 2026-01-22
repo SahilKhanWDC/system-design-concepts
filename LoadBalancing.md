@@ -33,12 +33,14 @@
 **Subjectivity**: Server architecture is complex. There are outliers and edge cases where other strategies might be needed, but consistent hashing remains a standard "building block" for architects.
 
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: flex-start;">
 <img src="./images/loadbalancing/WhatsApp%20Image%202026-01-22%20at%2011.49.47%20PM.jpeg" width="400">
 <img src="./images/loadbalancing/WhatsApp%20Image%202026-01-22%20at%2011.49.48%20PM.jpeg" width="400">
 <img src="./images/loadbalancing/WhatsApp%20Image%202026-01-22%20at%2011.49.48%20PM%20(1).jpeg" width="400">
 <img src="./images/loadbalancing/WhatsApp%20Image%202026-01-22%20at%2011.49.49%20PM.jpeg" width="400">
 <img src="./images/loadbalancing/WhatsApp%20Image%202026-01-22%20at%2011.49.50%20PM.jpeg" width="400">
 <img src="./images/loadbalancing/image.png" width="400">
+<div/>
 
 ```python
 import hashlib
