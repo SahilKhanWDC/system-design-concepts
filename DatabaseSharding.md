@@ -18,3 +18,12 @@
 
 ## Relevance
 * Sharding is a critical topic in **system design interviews**. It is frequently the standard answer for making databases more available and high-performing under heavy loads.
+
+---
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: flex-start;">
+<img src="./images/sharding/image.png" width="400">
+<img src="./images/sharding/WhatsApp Image 2026-01-26 at 12.00.51 AM.jpeg" width="400">
+<img src="./images/sharding/WhatsApp Image 2026-01-26 at 12.00.53 AM.jpeg" width="400">
+<img src="./images/sharding/WhatsApp Image 2026-01-26 at 12.00.58 AM.jpeg" width="400">
+</div>
