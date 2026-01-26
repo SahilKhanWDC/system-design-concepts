@@ -62,8 +62,8 @@ When the cache is full, the system must decide which old data to evict to make r
 
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: flex-start;">
-<img src="./images/sharding/image.png" width="400">
-<img src="./images/sharding/WhatsApp Image 2026-01-26 at 12.00.51 AM.jpeg" width="400">
-<img src="./images/sharding/WhatsApp Image 2026-01-26 at 12.00.53 AM.jpeg" width="400">
-<img src="./images/sharding/WhatsApp Image 2026-01-26 at 12.00.58 AM.jpeg" width="400">
+<img src="./images/caching/image.png" width="400">
+<img src="./images/caching/WhatsApp Image 2026-01-26 at 11.54.05 PM.jpeg" width="400">
+<img src="./images/caching/WhatsApp Image 2026-01-26 at 11.54.05 PM (1).jpeg" width="400">
+<img src="./images/caching/WhatsApp Image 2026-01-26 at 11.54.06 PM.jpeg" width="400">
 </div>
